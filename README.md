@@ -1,6 +1,4 @@
-V2.0 of the OpenROV Firmware Project
-========================
+# Deprecated
 
-Contains sketches, configuration files, and build/upload scripts for the OpenROV Controller Board.
-
-For submitting issues use the primary software repository: https://github.com/OpenROV/openrov-software/issues
+#### This branch has been merged into master and is temporarily here to support our automated build processes. 
+#### It will soon disappear, so do not use it.
